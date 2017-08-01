@@ -14,6 +14,8 @@ git add to add multiple files, and git reset to remove files
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+different version but not affect the main branch; expriment; demo
+make changes on a new branch while keeping the master brach unchanged
 
 How do the diagrams help you visualize the branch structure?
 
