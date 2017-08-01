@@ -32,5 +32,6 @@ could break something?
     Full commit history allows to revert back to older version easily
 
 Now that you have your workspace set up, what do you want to try using Git for?
+track changes
 
     Make commits and repository
