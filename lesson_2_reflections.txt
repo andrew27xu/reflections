@@ -18,6 +18,7 @@ different version but not affect the main branch; expriment; demo
 make changes on a new branch while keeping the master brach unchanged
 
 How do the diagrams help you visualize the branch structure?
+help to see the whole structure
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
