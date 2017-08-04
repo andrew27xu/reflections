@@ -22,6 +22,8 @@ help to see the whole structure
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Make a new commmit, merging two branches 
+easy to view structure
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
